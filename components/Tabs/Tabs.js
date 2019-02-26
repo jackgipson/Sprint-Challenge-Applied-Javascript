@@ -10,7 +10,7 @@ class TabLink {
     
     // <- Delete this comment block when you work on the if statement
     // Check to see if this.tabData is equal to 'all'
-    if (this.tabData ==+ 'all'){
+    if (this.tabData === 'all'){
 
 
       // If `all` is true, select all cards regardless of their data attribute values
